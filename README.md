@@ -25,7 +25,7 @@ These projects will redirect you to respective repositories that holds the corre
 ## 🔐Completed
 ## ⏳In-Progress
 
-### DG Consulting
+### [DG Consulting](https://github.com/Katleho-Nyoni/Private)
 **`Full-Stack`**
 
 ***Problem Statement:*** According to different sources, between 50-80% of data is considered to be *Dark Data*, depending on different industies and businesses. Dark data refers to data that is not used to discover underlying dynamics or for business insight. The reasons differ in nature, but at the core of them all is merely because the data would be too messy or complex to deal with or understand. 
