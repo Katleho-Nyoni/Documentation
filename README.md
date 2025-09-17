@@ -1,4 +1,6 @@
 # Hub Of Knowledge 
+<img src="./library.jpg" >
+
 ## Overview
 This repo includes an extensive list of projects I have done, those I'm actively working on, & those I wish to do after having completed others. <br>
 These projects will redirect you to respective repositories that holds the corresponding files. The documentation will be divided as follows :
