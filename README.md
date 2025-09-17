@@ -6,7 +6,7 @@ This repo includes an extensive list of projects I have done, those I'm actively
 These projects will redirect you to respective repositories that holds the corresponding files. The documentation will be divided as follows :
 
 **Section A**:
-- [Essays](#📖Essays):
+- [Essays](#Essays):
 - [Reports](#Reports):
 - [Contributions(Open Source)](#Contributions):
 
