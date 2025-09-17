@@ -23,6 +23,12 @@ These projects will redirect you to respective repositories that holds the corre
   " Unemployment has caused devastation not only to new graduates, but also to experienced individuals on a global scale. This has led to many individuals to think that there are no jobs, their field is saturated or worse — that they’re just not enough. While some get employed before they graduate, others wait years for their first employment after graduation. As stressed as you are, you’re probably wondering whether you’ll eventually be employed, and if so, when will this be. Venture with me as I use mathematics to answer the former. The latter we’ll leave to God. "
 
 ## 📊Reports
+- ### [Bone Marrow Density(BMD) Analysis](https://github.com/Katleho-Nyoni/Projects)
+  "This project uses the most recent and effective method of dealing with missing data and recovering(predicting) 25% of the data that was missing, greatly improving the quality of the data and reliability of future tests to be ran on that dataset. "
+
+- ### [Employee's Satisfaction](https://github.com/Katleho-Nyoni/Projects)
+  " The analyses investigates how gender and education affects the happiness of an employee at a certain company, using Data Analysis techniques. "
+  
 - ### [Forecasting the sales of Food and Beverages of South Africa](https://rpubs.com/LordEagle/TSA1)
   " The Box and Jenkins methodology to Time Series Analysis(TSA) has shed light on how to deal with processes that do not follow classical methods. I use the Box and Jenkins methodology to fit and find a candidate model for the sales of the Food and Beverages of South Africa(SA). This analysis features fitting various seasonal ARIMA models to the sales of the Food & Beverages of South Africa as well as testing the necessary assumptions. The ARIMA(2,1,3)(1,1,0) is chosen to be the best model and the analysis proceeds to forecast future values and evaluates the performance of the model using the MAPE(evaluated to be 1.98%) metric. "
   
@@ -34,8 +40,8 @@ These projects will redirect you to respective repositories that holds the corre
 ### [e-Commerce](https://github/Katleho-Nyoni/NextJS)
   ***`Project Based Learning`*** : **`Full-Stack`**
 <br>
-### [My Website](https://katium.co.za)
- **`In Progress`** : **To Be Edited/Changed**
+### [My Website](https://github.com/Katleho-Nyoni/website)
+ **`In Progress`** : [To Be Edited/Changed](https://github.com/Katleho-Nyoni/Private)
 <br> 
 ### [Katieum's App](https://katieum.co.za)
  **`Scheduled`** : **To Be Edited/Changed**
