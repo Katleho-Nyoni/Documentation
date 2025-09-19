@@ -37,7 +37,7 @@ These projects will redirect you to respective repositories that holds the corre
 --- 
 # Section B
 ## 🔐Completed
-- ### [e-Commerce](https://github/Katleho-Nyoni/NextJS)
+- ### [e-Commerce](https://github.com/Katleho-Nyoni/NextJS)
   ***`Project Based Learning`*** : **`Full-Stack`**
 - ### [My Website](https://github.com/Katleho-Nyoni/website)
  **`In Progress`** : [To Be Edited/Changed](https://github.com/Katleho-Nyoni/Private)
