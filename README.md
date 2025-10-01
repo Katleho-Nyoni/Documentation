@@ -50,7 +50,7 @@ Building an e-commerce website.
 - ### [Katieum's App](https://katieum.co.za)
  **`Scheduled`** : **To Be Edited/Changed**
  
- This website was the initialization stage of [Katieum](###Katieum) so I can later create a fully-functional web-app with videos, books & other resources.
+ This website was the initialization stage of [Katieum](#Katieum) so I can later create a fully-functional web-app with videos, books & other resources.
  
  *I have completed this website. However, I've scheduled to improve the presentation and performance pf this web-app. Also add more features and complete it.*
 
