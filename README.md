@@ -37,26 +37,43 @@ These projects will redirect you to respective repositories that holds the corre
 --- 
 # Section B
 ## 🔐Completed
-- ### [e-Commerce](https://github.com/Katleho-Nyoni/NextJS)
-  ***`Project Based Learning`*** : **`Full-Stack`**
+- ### [e-Commerce](https://github.com/Katleho-Nyoni/NextJS) 
+   **`Full-Stack`**
+Building an e-commerce website.
 - ### [My Website](https://github.com/Katleho-Nyoni/website)
- **`In Progress`** : [To Be Edited/Changed](https://github.com/Katleho-Nyoni/Private)
+ **`In Progress`** : **[To Be Edited/Changed]**(https://github.com/Katleho-Nyoni/Private)
+ 
+ This is my personal website that shows my projects and some other information.
+ 
+ *I have completed this website. However, I'm working on changing it entirely to optimize the feel, presentation and performance.*
+ 
 - ### [Katieum's App](https://katieum.co.za)
  **`Scheduled`** : **To Be Edited/Changed**
+ 
+ This website was the initialization stage of [Katieum](###Katieum) so I can later create a fully-functional web-app with videos, books & other resources.
+ 
+ *I have completed this website. However, I've scheduled to improve the presentation and performance pf this web-app. Also add more features and complete it.*
 
 ## ⏳In-Progress
 - ### [Buying & Selling site](https://github.com/Katleho-Nyoni/Private)
-***`Project Based Learning`*** : **`Full-Stack`**
+ **`Full-Stack`**
+
+ Building a Buy & Sell app where users can list items they're selling(like Facebook's marketplace).
 
 - ### [DG Consulting](https://github.com/Katleho-Nyoni/Private)
 **`Full-Stack`**
 
+Building an AI Agent that can do Explanatory Data Analysis.
+<!--
 ***Problem Statement:*** According to different sources, between 50-80% of data is considered to be *Dark Data*, depending on different industies and businesses. Dark data refers to data that is not used to discover underlying dynamics or for business insight. The reasons differ in nature, but at the core of them all is merely because the data would be too messy or complex to deal with or understand. 
 
 ***Solution:*** To solve this crises in the age of *Big Data*, I'm creating DG(Data Group) Consuluting. A mock-up solution that will automatically generate reports for what I call **Over-Seeing Data Analyasts** so that they can analyse the statistics and graphical visualisations of the dataset, to decise if further analysis should be done on the dataset to reveal hiding patterns or complex dynamics that would be matching the evolving landscape of new mathematical & statistical techniques that are developed both in academia and industry. With time, I believe there will be a need for **Over-Seeing Data Analyst**, these would be Data Analysts that primarily work on creating automation systems, debugging them and analysing results provided by the automation systems.
+-->
 
 - ### [Katieum](https://github.com/E4Katieum)
 **`Educational`**
+
+Plateform that presents a series of lectures in Mathematics for grade 10 to 12 learners using interactive animation/visualization.
 
 ## 💡Scheduled
 - ### [e-Tracking](https://github.com/Katleho-Nyoni/Private)
