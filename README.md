@@ -41,7 +41,7 @@ These projects will redirect you to respective repositories that holds the corre
    **`Full-Stack`**
 Building an e-commerce website.
 - ### [My Website](https://github.com/Katleho-Nyoni/website)
- **`In Progress`** : **[To Be Edited/Changed]**(https://github.com/Katleho-Nyoni/Private)
+ **`In Progress`** : **To Be Edited/Changed**
  
  This is my personal website that shows my projects and some other information.
  
