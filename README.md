@@ -40,12 +40,9 @@ These projects will redirect you to respective repositories that holds the corre
 - ### [e-Commerce](https://github.com/Katleho-Nyoni/NextJS) 
    **`Full-Stack`**
 Building an e-commerce website.
-- ### [My Website](https://github.com/Katleho-Nyoni/website)
- **`In Progress`** : **To Be Edited/Changed**
+- ### [My Website](https://github.com/Katleho-Nyoni/React-Web)
  
  This is my personal website that shows my projects and some other information.
- 
- *I have completed this website. However, I'm working on changing it entirely to optimize the feel, presentation and performance.*
  
 - ### [Katieum's App](https://katieum.co.za)
  **`Scheduled`** : **To Be Edited/Changed**
