@@ -5,19 +5,24 @@
 This repo includes an extensive list of projects I have done, those I'm actively working on, & those I wish to do after having completed others. <br>
 These projects will redirect you to respective repositories that holds the corresponding files. The documentation will be divided as follows :
 
-**Section A**:
+[**Section A**](#Section-A):
 - [Essays](#Essays):
 - [Reports](#Reports):
 - [Contributions(Open Source)](#Contributions):
 
-**Section B**:
+[**Section B**](#Section-B):
 - [Completed](#Completed):
 - [In Progress](#In-Progress):
 - [Scheduled](#Scheduled):
 
+[**Section C**](#Section-C):
+- [Tutorial Based](#Tutorial-Based):
+
+
 ---
 
 # Section A
+**Section A** lists an essay, reports and open source contributions I have made, ranging from history, to mathematics and statistics .
 ## 📖Essays
 - ### [Will I Eventually be Employed: A Mathematica Approach](https://rpubs.com/LordEagle/Unemployment)
   " Unemployment has caused devastation not only to new graduates, but also to experienced individuals on a global scale. This has led to many individuals to think that there are no jobs, their field is saturated or worse — that they’re just not enough. While some get employed before they graduate, others wait years for their first employment after graduation. As stressed as you are, you’re probably wondering whether you’ll eventually be employed, and if so, when will this be. Venture with me as I use mathematics to answer the former. The latter we’ll leave to God. "
@@ -33,14 +38,13 @@ These projects will redirect you to respective repositories that holds the corre
   " The Box and Jenkins methodology to Time Series Analysis(TSA) has shed light on how to deal with processes that do not follow classical methods. I use the Box and Jenkins methodology to fit and find a candidate model for the sales of the Food and Beverages of South Africa(SA). This analysis features fitting various seasonal ARIMA models to the sales of the Food & Beverages of South Africa as well as testing the necessary assumptions. The ARIMA(2,1,3)(1,1,0) is chosen to be the best model and the analysis proceeds to forecast future values and evaluates the performance of the model using the MAPE(evaluated to be 1.98%) metric. "
   
 ## 🛠Contributions
+- ### [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Katleho-Nyoni)
+  - [Free State of South Africa(Education paragraph under demographics)](https://en.wikipedia.org/wiki/Free_State_(province))
+  - [Free State of South Africa(Conservation section)](https://en.wikipedia.org/wiki/Free_State_(province))
 
---- 
+ 
 # Section B
 ## 🔐Completed
-- ### [e-Commerce](https://github.com/Katleho-Nyoni/NextJS) 
-**`Full-Stack`**
-
-  Building an e-commerce website.
   
 - ### [My Website](https://github.com/Katleho-Nyoni/React-Web)
 **`Client Only`**
@@ -61,10 +65,10 @@ These projects will redirect you to respective repositories that holds the corre
 
 
 ## ⏳In-Progress
-- ### [Buying & Selling site](https://github.com/Katleho-Nyoni/Private)
- **`Full-Stack`**
 
- Building a Buy & Sell app where users can list items they're selling(like Facebook's marketplace).
+- ### [Ticket Logging system](https://github.com/Katleho-Nyoni/Private)
+**`Full-Stack`** <br>
+Most big corporate companies needs a ticket logging system where employees can log ticket & report computer related issue. These tickets would then be attended by people from the IT department as it's often *illigal* to modify company devices as an administrator, or elevating your privilege.
 
 - ### [DG Consulting](https://github.com/Katleho-Nyoni/Private)
 **`Full-Stack`**
@@ -86,7 +90,18 @@ Plateform that presents a series of lectures in Mathematics for grade 10 to 12 l
 **`Full-Stack`** <br>
 Track devices by merging software development and ethical hacking principles.
 
-- ### [Ticket Logging system](https://github.com/Katleho-Nyoni/Private)
-**`Full-Stack`** <br>
-Most big corporate companies needs a ticket logging system where employees can log ticket & report computer related issue. These tickets would then be attended by people from the IT department as it's often *illigal* to modify company devices as an administrator, or elevating your privilege.
+
+# Section C
+## Tutorial Based
+
+- ### [Buying & Selling site](https://github.com/Katleho-Nyoni/Private)
+ **`Full-Stack`**
+
+ Building a Buy & Sell app where users can list items they're selling(like Facebook's marketplace).
+
+ - ### [e-Commerce](https://github.com/Katleho-Nyoni/NextJS) 
+**`Full-Stack`**
+
+  Building an e-commerce website.
+
 
