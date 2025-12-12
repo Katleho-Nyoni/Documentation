@@ -23,6 +23,7 @@ These projects will redirect you to respective repositories that holds the corre
 
 # Section A
 **Section A** lists an essay, reports and open source contributions I have made, ranging from history, to mathematics and statistics .
+
 ## 📖Essays
 - ### [Will I Eventually be Employed: A Mathematica Approach](https://rpubs.com/LordEagle/Unemployment)
   " Unemployment has caused devastation not only to new graduates, but also to experienced individuals on a global scale. This has led to many individuals to think that there are no jobs, their field is saturated or worse — that they’re just not enough. While some get employed before they graduate, others wait years for their first employment after graduation. As stressed as you are, you’re probably wondering whether you’ll eventually be employed, and if so, when will this be. Venture with me as I use mathematics to answer the former. The latter we’ll leave to God. "
@@ -44,6 +45,8 @@ These projects will redirect you to respective repositories that holds the corre
 
  
 # Section B
+This section lists the projects I have done, those I'm currently working on and those I have scheduled to work on. It oath to be noted that I also continuously maintain the projects I have made to optimize their performance, look and feel.
+
 ## 🔐Completed
   
 - ### [My Website](https://github.com/Katleho-Nyoni/React-Web)
@@ -92,6 +95,8 @@ Track devices by merging software development and ethical hacking principles.
 
 
 # Section C
+This section involves projects I have built while watching tutorial videos. I have done these projects to gain hands-on experience, grasp the fundamentals and or learn how to use and intergrate a framework or library.
+
 ## Tutorial Based
 
 - ### [Buying & Selling site](https://github.com/Katleho-Nyoni/Private)
