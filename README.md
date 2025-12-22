@@ -74,16 +74,6 @@ This section lists the projects I have done, those I'm currently working on and 
 
 Most big corporate companies needs a ticket logging system where employees can log ticket & report computer related issue. These tickets would then be attended by people from the IT department as it's often *illigal* to modify company devices as an administrator, or elevating your privilege.
 
-- ### [DG Consulting](https://github.com/Katleho-Nyoni/Private)
-**`Full-Stack`**
-
-Building an AI Agent that can do Explanatory Data Analysis.
-<!--
-***Problem Statement:*** According to different sources, between 50-80% of data is considered to be *Dark Data*, depending on different industies and businesses. Dark data refers to data that is not used to discover underlying dynamics or for business insight. The reasons differ in nature, but at the core of them all is merely because the data would be too messy or complex to deal with or understand. 
-
-***Solution:*** To solve this crises in the age of *Big Data*, I'm creating DG(Data Group) Consuluting. A mock-up solution that will automatically generate reports for what I call **Over-Seeing Data Analyasts** so that they can analyse the statistics and graphical visualisations of the dataset, to decise if further analysis should be done on the dataset to reveal hiding patterns or complex dynamics that would be matching the evolving landscape of new mathematical & statistical techniques that are developed both in academia and industry. With time, I believe there will be a need for **Over-Seeing Data Analyst**, these would be Data Analysts that primarily work on creating automation systems, debugging them and analysing results provided by the automation systems.
--->
-
 - ### [Katieum](https://github.com/E4Katieum)
 **`Educational`**
 
@@ -95,6 +85,15 @@ Plateform that presents a series of lectures in Mathematics for grade 10 to 12 l
 
 Track devices by merging software development and ethical hacking principles.
 
+- ### [DG Consulting](https://github.com/Katleho-Nyoni/Private)
+**`Full-Stack`**
+
+Building an AI Agent that can do Explanatory Data Analysis.
+<!--
+***Problem Statement:*** According to different sources, between 50-80% of data is considered to be *Dark Data*, depending on different industies and businesses. Dark data refers to data that is not used to discover underlying dynamics or for business insight. The reasons differ in nature, but at the core of them all is merely because the data would be too messy or complex to deal with or understand. 
+
+***Solution:*** To solve this crises in the age of *Big Data*, I'm creating DG(Data Group) Consuluting. A mock-up solution that will automatically generate reports for what I call **Over-Seeing Data Analyasts** so that they can analyse the statistics and graphical visualisations of the dataset, to decise if further analysis should be done on the dataset to reveal hiding patterns or complex dynamics that would be matching the evolving landscape of new mathematical & statistical techniques that are developed both in academia and industry. With time, I believe there will be a need for **Over-Seeing Data Analyst**, these would be Data Analysts that primarily work on creating automation systems, debugging them and analysing results provided by the automation systems.
+-->
 
 # Section C
 This section involves projects I have built while watching tutorial videos. I have done these projects to gain hands-on experience, grasp the fundamentals and or learn how to use and intergrate a framework or library.
