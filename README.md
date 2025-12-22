@@ -50,7 +50,7 @@ This section lists the projects I have done, those I'm currently working on and 
 ## 🔐Completed
   
 - ### [My Website](https://github.com/Katleho-Nyoni/React-Web)
-**`Client Only`**
+**`Client / serverless`**
  
  This is my personal website that shows my projects and some other information.
  
@@ -62,7 +62,7 @@ This section lists the projects I have done, those I'm currently working on and 
  *I have completed this website. However, I've scheduled to improve the presentation and performance pf this web-app. Also add more features and complete it.*
 
  - ### [PregCa](https://github.com/Katleho-Nyoni/PregCa)
- **`Client Only`**
+ **`Client / serverless`**
 
  Preg-Ca is a Pregnancy Calculator that let's you estimate if you & your partner have possibly conseived by using simple Mathematics.
 
@@ -71,6 +71,7 @@ This section lists the projects I have done, those I'm currently working on and 
 
 - ### [Ticket Logging system](https://github.com/Katleho-Nyoni/Private)
 **`Full-Stack`** <br>
+
 Most big corporate companies needs a ticket logging system where employees can log ticket & report computer related issue. These tickets would then be attended by people from the IT department as it's often *illigal* to modify company devices as an administrator, or elevating your privilege.
 
 - ### [DG Consulting](https://github.com/Katleho-Nyoni/Private)
@@ -91,6 +92,7 @@ Plateform that presents a series of lectures in Mathematics for grade 10 to 12 l
 ## 💡Scheduled
 - ### [e-Tracking](https://github.com/Katleho-Nyoni/Private)
 **`Full-Stack`** <br>
+
 Track devices by merging software development and ethical hacking principles.
 
 
@@ -108,5 +110,15 @@ This section involves projects I have built while watching tutorial videos. I ha
 **`Full-Stack`**
 
   Building an e-commerce website.
+
+- ### [Weather App](https://github.com/Katleho-Nyoni/Private)
+**`Client + API integration`**
+
+A weather app that gets data from the [OpenWeatherMap API](https://openweathermap.org/) and displays the weather at that region you'd search.
+
+- ### [Authentication](https://github.com/Katleho-Nyoni/google-auth)
+**`Client / serverless`**
+
+An authentication app that authenticates users using two methods, the Google OAuth and email + password, using [firebase](https://firebase.google.com/).
 
 
